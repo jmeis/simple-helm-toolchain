@@ -268,5 +268,6 @@ form:
       prod-region: '{{prodRegion}}'
       prod-resource-group: '{{prodResourceGroup}}'
       prod-cluster-name: '{{prodClusterName}}'
+      workspace-id: '{{workspaceId}}'
     schema:
       $ref: deploy.json
